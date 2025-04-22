@@ -1,37 +1,38 @@
-# Zingo Translate - Instant Language Translation Tool
+# Zassword - Instant Password Generator
 
-![Zingo Translate Banner](https://res.cloudinary.com/zapeture/image/upload/v1738460375/MISC/banner_tcaudc.png)
+![Zassword](https://res.cloudinary.com/zapeture/image/upload/v1738460375/MISC/banner_tcaudc.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Overview
 
-Zingo Translate is a modern, fast, and user-friendly language translation tool built with next.js,google-translate-api-x, tailwindcss, and lucide-react. Translate text between languages instantly.
+Zassword is a modern, fast, and user-friendly password generator tool built with Next.js, Tailwind CSS, and shadcn UI. Generate secure passwords instantly.
 
 ### ✨ Features
 
-- 🎯 Instant language translation
+- 🔐 Instant password generation
+- 🎚️ Customizable password length and complexity
+- 🔡 Include uppercase, lowercase, numbers, and special characters
 - 📱 Responsive design
 - 🎨 Clean and modern UI
-- 📏 Multiple language options
 
 ## 🛠️ Technologies Used
 
 - Next.js
 - Tailwind CSS
-- Google Translate API
+- shadcn UI
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Zingo Translate Demo](https://zingo.translate.fortunezviregei.com)
+Check out the live demo: [Zassword Demo](https://zassword.fortunezviregei.com)
 
 ## 🏗️ Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/zapeture/zingo-translate.git
-cd zingo-translate
+git clone https://github.com/zapeture/zassword.git
+cd zassword
 npm install
 ```
 
@@ -66,7 +67,7 @@ Give a ⭐️ if this project helped you!
 
 ## 🙏 Acknowledgments
 
-- [Google Translate API](https://cloud.google.com/translate)
+- [shadcn UI](https://ui.shadcn.com)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Lucide React](https://lucide.dev)
 - [Next.js](https://nextjs.org)
