@@ -1,6 +1,6 @@
 # Zassword - Instant Password Generator
 
-![Zassword](https://res.cloudinary.com/zapeture/image/upload/v1738460375/MISC/banner_tcaudc.png)
+![Zassword](https://res.cloudinary.com/zapeture/image/upload/v1745352849/zassword_otdr9k.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,6 +21,7 @@ Zassword is a modern, fast, and user-friendly password generator tool built with
 - Next.js
 - Tailwind CSS
 - shadcn UI
+- Cypress
 
 ## 🚀 Live Demo
 
@@ -34,6 +35,12 @@ Check out the live demo: [Zassword Demo](https://zassword.fortunezviregei.com)
 git clone https://github.com/zapeture/zassword.git
 cd zassword
 npm install
+```
+
+## 🧪 Testing
+
+```bash
+npm run test
 ```
 
 ## 🤝 Contributing
@@ -63,11 +70,12 @@ Give a ⭐️ if this project helped you!
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://res.cloudinary.com/zapeture/image/upload/v1738460375/MISC/banner_tcaudc.png)
+![Screenshot 1](https://res.cloudinary.com/zapeture/image/upload/v1745352849/zassword_otdr9k.png)
 
 ## 🙏 Acknowledgments
 
 - [shadcn UI](https://ui.shadcn.com)
 - [Tailwind CSS](https://tailwindcss.com)
-- [Lucide React](https://lucide.dev)
 - [Next.js](https://nextjs.org)
+- [Cypress](https://cypress.io)
+- [zxcvbn](https://github.com/dropbox/zxcvbn)
